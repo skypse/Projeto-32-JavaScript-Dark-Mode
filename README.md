@@ -2,7 +2,7 @@
 
 https://github.com/skypse/Projeto-32-JavaScript-Dark-Mode/assets/97822775/bf9ef64e-45de-4469-9d63-64db38c7ac39
 
-O Dark-Mode é uma página web que oferece uma experiência de alternar entre os modos claro e escuro
+O Dark-Mode é uma página web que oferece uma experiência de alternar entre os modos claro e escuro.
 
 ## ⚙️ Funcionalidades Principais
 - Apresentação de um produto incrível com texto descritivo.
